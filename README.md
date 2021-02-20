@@ -39,7 +39,7 @@
 ##
 
 
-You can find me on <a href="https://twitter.com/shirosheroics"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" style="height: 30px; width:30ps; margin-bottom:15px;"></a> <a href="https://www.linkedin.com/in/shorook-saleh/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" style="height: 30px; width:30ps; margin-bottom:15px;"></a>.
+You can find me on <a href="https://twitter.com/shirosheroics"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" style="height: 30px; width:30ps; margin-bottom:15px;" width="20"></a> <a href="https://www.linkedin.com/in/shorook-saleh/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" style="height: 30px; width:30ps; margin-bottom:15px;" width="20"></a>.
 
 <!-- Icons -->
 
